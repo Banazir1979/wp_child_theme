@@ -1,0 +1,22 @@
+/*
+ Theme Name:   Minimal-lite Child
+ Theme URI:    http://example.com/minimal-lite-child/
+ Description:  Minimal-lite Child Theme
+ Author:       Nicholas Schjaerff
+ Author URI:   http://banazir.dk/minportfolio/
+ Template:     minimal-lite
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  minimal-lite theme
+*/
+body .footer-widget-area {
+    background: #f00;
+	color: white;
+}
+.footer-widget-area {
+    
+    padding-bottom: 90px;
+    padding-top: 50px;
+}
